@@ -36,5 +36,6 @@ Agents are based on Reasoning + Action framework (source: https://arxiv.org/abs/
 - **API Layer:** Managed via **FastAPI** for handling user requests.
 - **Deployment-Ready:** Supports CI/CD pipelines and deployment to cloud services like AWS or Render.
 
+Author: Feroz Khan
 ---
 
